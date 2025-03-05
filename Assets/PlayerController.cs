@@ -127,5 +127,11 @@ public class PlayerController : MonoBehaviour
         {
            // Instantiate(HitWorldEffect, transform.position, Quaternion.identity);
         }
+
+        if (collision.gameObject.CompareTag("Minus") || collision.gameObject.CompareTag("Plus"))
+        {
+            Debug.Log("Shake");
+            ScreenShake.instance.shakeCamera(intensity, time);
+        }
     }
 }
