@@ -96,7 +96,8 @@ public class ShopManager : MonoBehaviour
             SaveJson();
         }
     }
-   
+
+    // if has nft run a method that will unlock the skin related to the nft
    
     public void RerenderShop()
     {
