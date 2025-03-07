@@ -13,70 +13,40 @@ EditorBuildSettings:
     guid: fb869505df246b44a871b06c9162d82d
   - enabled: 1
     path: Assets/Scenes/Level 1.unity
-    guid: 4ce8bfaf168ef494d8229f64c5f1fc0a
+    guid: af17dde15d1b344b3b3dba390cdeca91
   - enabled: 1
     path: Assets/Scenes/Level 2.unity
-    guid: 4395d47a4ec13d34198562a0319c898c
+    guid: 0ad516bcc8bbd437ca80b6820cb8a9cf
   - enabled: 1
     path: Assets/Scenes/Level 3.unity
-    guid: 69d79230cebf6c340b492a5ff6884c59
+    guid: 177fcd98210df44aa966f4684c047284
   - enabled: 1
     path: Assets/Scenes/Level 4.unity
-    guid: 6e76df9547541d148a65f2e7d1eb3fd5
+    guid: 4ea64ce11d5be4ba9bd92b15ee72f0ed
   - enabled: 1
     path: Assets/Scenes/Level 5.unity
-    guid: ff404bc5b78dc04438508712bfac6fff
+    guid: 348106b8da91c47b3a0c42f45285422f
   - enabled: 1
     path: Assets/Scenes/Level 6.unity
-    guid: 18bba0683a403d14bb0d93edd61d70d1
+    guid: 543ace334b7ab4ea3a51b98bd24903f3
   - enabled: 1
     path: Assets/Scenes/Level 7.unity
-    guid: 07649e5fe69773946ab9d269ec56c4cd
+    guid: 0b89c236d3f1c4f158d1c799e9b9fed0
   - enabled: 1
     path: Assets/Scenes/Level 8.unity
-    guid: 4feb2b2e5c565a84dbbce1af7b5731b2
+    guid: e51fee946eb3949439e171dee62e5c7b
   - enabled: 1
     path: Assets/Scenes/Level 9.unity
-    guid: bfad88729156a934eb38c1aba9ad9da0
+    guid: 265315de5590f4accb5490a54215d67e
   - enabled: 1
     path: Assets/Scenes/Level 10.unity
-    guid: 8c2fde8deb2e5ab4f98bbf57fb08e1ab
+    guid: ff37ab473165d4570a70290c0a72c011
   - enabled: 1
     path: Assets/Scenes/Level 11.unity
-    guid: d1490178102d20146a8395c58e8491e9
+    guid: 4d15547bc3ba24613a1d8072506a00da
   - enabled: 1
     path: Assets/Scenes/Level 12.unity
-    guid: 5c4f758a7a860a74784325dfc311b632
-  - enabled: 1
-    path: Assets/Scenes/Level 13.unity
-    guid: d7cd94bf799d4974b8dac0a0651b9620
-  - enabled: 1
-    path: Assets/Scenes/Level 14.unity
-    guid: 5927da9ceaa5cec469dc74ecb0de304d
-  - enabled: 1
-    path: Assets/Scenes/Level 15.unity
-    guid: eb1179c2f3893aa418254bb6e8b25d74
-  - enabled: 1
-    path: Assets/Scenes/Level 16.unity
-    guid: 12672f69449436643834cade4a04708c
-  - enabled: 1
-    path: Assets/Scenes/Level 17.unity
-    guid: de09fd7726476c445b90bae1ba8d4faa
-  - enabled: 1
-    path: Assets/Scenes/Level 18.unity
-    guid: 8b311ed778e020348b483a07dea189fd
-  - enabled: 1
-    path: Assets/Scenes/Level 19.unity
-    guid: 1d1e85a75cc7b5c4e8960f8b6f69b622
-  - enabled: 1
-    path: Assets/Scenes/Level 20.unity
-    guid: 39c0f283ad8bda34b8b69fc36aa0c5a0
-  - enabled: 1
-    path: Assets/Scenes/Level 21.unity
-    guid: b732aec63e756674385d0bcac9f08c50
-  - enabled: 1
-    path: Assets/Scenes/Level 22.unity
-    guid: ddddb53b663fa184ebe7d2dd41ea35f2
+    guid: eac9c203bc1374e8ca65454579859355
   - enabled: 1
     path: Assets/Scenes/Endless.unity
     guid: 2ed2e430a6246924a871a34a55efa926
