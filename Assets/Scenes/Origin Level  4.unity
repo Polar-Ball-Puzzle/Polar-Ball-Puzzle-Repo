@@ -1691,8 +1691,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29551e65cf4e39c4e9c5fcb46117d914, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementType: 0
   up: {fileID: 954417381}
   down: {fileID: 1166003399}
+  left: {fileID: 0}
+  right: {fileID: 0}
   speed: 4
 --- !u!60 &489793355
 PolygonCollider2D:
