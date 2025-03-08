@@ -21,7 +21,7 @@ public class KeyCollectionScript : MonoBehaviour
     public IEnumerator ChangeScene()
     {
         welldoneText.SetActive(true);
-        yield return new WaitForSeconds(6f);
+        yield return new WaitForSeconds(1f);
         PlayerPrefs.SetInt("Attempts", 1);
         SceneManager.LoadScene(nextSceneLoad);
 

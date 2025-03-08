@@ -117,6 +117,10 @@ public class PlayerController : MonoBehaviour
 
                
             }
+            //if (collision.gameObject.tag == "Goal")
+            //{
+            //    GetComponent<Rigidbody2D>().freezeRotation = true;
+            //}
         }
         
         if(collision.gameObject.name== "Spring Joint")

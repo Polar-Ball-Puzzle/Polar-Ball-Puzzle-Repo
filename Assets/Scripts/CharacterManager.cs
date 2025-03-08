@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class CharacterManager : MonoBehaviour
 {
     public CharacterDataBase characterDB;
-    public SpriteRenderer artWorkSprite;
+   // public SpriteRenderer artWorkSprite;
     
     private int selectedOption ;
 

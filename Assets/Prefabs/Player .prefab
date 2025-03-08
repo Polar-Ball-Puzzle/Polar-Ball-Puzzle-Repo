@@ -181,9 +181,9 @@ MonoBehaviour:
   avatars:
   - {fileID: 8091073501442842583}
   - {fileID: 6860987536036253664}
-  - {fileID: 8524185676321197434}
   - {fileID: 8250787086542108794}
   - {fileID: 88158552435691135}
+  - {fileID: 8524185676321197434}
   - {fileID: 7792884847496234061}
   selectedAvatar: 0
   Blackholeobjs: {fileID: 0}
