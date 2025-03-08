@@ -11637,9 +11637,9 @@ MonoBehaviour:
   avatars:
   - {fileID: 1106586317}
   - {fileID: 1849991418}
-  - {fileID: 60782252}
   - {fileID: 2023787145}
   - {fileID: 380344746}
+  - {fileID: 60782252}
   - {fileID: 1145561453}
   selectedAvatar: 0
   Blackholeobjs: {fileID: 0}

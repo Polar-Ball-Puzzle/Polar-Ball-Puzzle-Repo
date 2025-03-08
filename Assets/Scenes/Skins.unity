@@ -813,9 +813,9 @@ MonoBehaviour:
     skin5Unlocked: 0
     skin6Unlocked: 0
   skin2: {fileID: 807830400}
-  skin3: {fileID: 1018351837}
-  skin4: {fileID: 2059071969}
-  skin5: {fileID: 1157881925}
+  skin3: {fileID: 2059071969}
+  skin4: {fileID: 1157881925}
+  skin5: {fileID: 1018351837}
   skin6: {fileID: 1864411346}
   TotalCoins: 0
   buy2: {fileID: 1604932555}
@@ -2824,7 +2824,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 672482946}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   m_Name: 
