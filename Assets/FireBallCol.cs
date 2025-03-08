@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FireBallCol : MonoBehaviour
+public class SkinCollsionScript : MonoBehaviour
 {
     public GameObject HitWorldEffect,Effect2;
     public int random;
@@ -37,9 +37,6 @@ public class FireBallCol : MonoBehaviour
             }
 
         }
-        //if (collision.gameObject.name=="Obstacle") // temporary fix
-        //{
-        //    Destroy(collision.gameObject);
-        //}
+        
     }
 }
