@@ -507,7 +507,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &193041415
 RectTransform:
   m_ObjectHideFlags: 0
@@ -818,9 +818,9 @@ MonoBehaviour:
   skin6: {fileID: 1864411346}
   TotalCoins: 0
   buy2: {fileID: 1604932555}
-  buy3: {fileID: 893034297}
-  buy4: {fileID: 1184109247}
-  buy5: {fileID: 496627889}
+  buy3: {fileID: 1184109247}
+  buy4: {fileID: 496627889}
+  buy5: {fileID: 893034297}
   buy6: {fileID: 2099169733}
   TotalCoinsText: {fileID: 1026444383}
 --- !u!4 &257856576
@@ -1094,7 +1094,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 309249493}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
   m_Name: 
@@ -3261,7 +3261,7 @@ GameObject:
   - component: {fileID: 711298288}
   - component: {fileID: 711298287}
   m_Layer: 5
-  m_Name: Scroll
+  m_Name: Scroll view
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4739,7 +4739,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 2
+          m_IntArgument: 4
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -5466,7 +5466,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 4
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -8060,7 +8060,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
