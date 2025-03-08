@@ -562,14 +562,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edeb7d9b70a30d449b94376658086891, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextSceneLoad: 14
+  nextSceneLoad: 8
   welldoneText: {fileID: 661666650}
   levelCleared:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 528966821}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: Level12completed
+        m_TargetAssemblyTypeName: LevelManagerr, Assembly-CSharp
+        m_MethodName: Level6completed
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2331,8 +2331,21 @@ MonoBehaviour:
     Level20Completed: 0
     Level21Completed: 0
     Level22Completed: 0
+    LeveliCompleted: 
   TotalCoins: 0
-  uoial: {fileID: 0}
+  Tutorial: {fileID: 0}
+  btn1: {fileID: 0}
+  btn2: {fileID: 0}
+  btn3: {fileID: 0}
+  btn4: {fileID: 0}
+  btn5: {fileID: 0}
+  btn6: {fileID: 0}
+  btn7: {fileID: 0}
+  btn8: {fileID: 0}
+  btn9: {fileID: 0}
+  btn10: {fileID: 0}
+  btn11: {fileID: 0}
+  btn12: {fileID: 0}
 --- !u!114 &528966822
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3656,7 +3669,7 @@ PrefabInstance:
     - target: {fileID: 1630565519247573770, guid: a583cb1aac85d624f8e91c7cd4809c5f,
         type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1630565519247573771, guid: a583cb1aac85d624f8e91c7cd4809c5f,
         type: 3}

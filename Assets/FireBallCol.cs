@@ -37,5 +37,9 @@ public class FireBallCol : MonoBehaviour
             }
 
         }
+        if (collision.gameObject.name=="Obstacle") // temporary fix
+        {
+            Destroy(collision.gameObject);
+        }
     }
 }

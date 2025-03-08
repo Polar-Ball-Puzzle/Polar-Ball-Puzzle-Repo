@@ -30,6 +30,7 @@ public class LevelStates
     public bool Level21Completed;
     public bool Level22Completed;
 
+    public bool[] LeveliCompleted;
 
 }
 

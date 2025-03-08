@@ -24,5 +24,10 @@ public class BlackHoleScript : MonoBehaviour
             Instantiate(collisioneffect, transform.position, Quaternion.identity);
            
         }
+
+        if (collision.gameObject.name == "Obstacle") // temporary fix
+        {
+            Destroy(collision.gameObject);
+        }
     }
 }

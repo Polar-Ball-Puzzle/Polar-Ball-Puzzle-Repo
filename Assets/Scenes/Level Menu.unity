@@ -329,17 +329,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 51484072}
-  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.667998, y: 3.667998, z: 3.667998}
+  m_LocalScale: {x: 0.13505936, y: 0.13505936, z: 0.13505936}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1701062208}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1409, y: -117}
-  m_SizeDelta: {x: 168.66626, y: 67.91492}
+  m_AnchoredPosition: {x: 1160, y: -2728}
+  m_SizeDelta: {x: 1980, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &51484074
 MonoBehaviour:
@@ -417,7 +417,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f31764aae63fa304b8517dfb78d0cd6e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 496b34fff469f5843b83fc7577527e8b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5960,7 +5960,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1123989757}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f54374917e6d60241aed7597037d79ac, type: 3}
   m_Name: 
@@ -5985,7 +5985,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1123989757}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c1b6a7ed1daf33349a859653daa0437b, type: 3}
   m_Name: 
@@ -6013,8 +6013,21 @@ MonoBehaviour:
     Level20Completed: 0
     Level21Completed: 0
     Level22Completed: 0
+    LeveliCompleted: 
   TotalCoins: 0
-  uoial: {fileID: 0}
+  Tutorial: {fileID: 0}
+  btn1: {fileID: 861981062}
+  btn2: {fileID: 1161506265}
+  btn3: {fileID: 1330539733}
+  btn4: {fileID: 743708515}
+  btn5: {fileID: 1957642721}
+  btn6: {fileID: 1836396300}
+  btn7: {fileID: 1055296100}
+  btn8: {fileID: 627974075}
+  btn9: {fileID: 291958279}
+  btn10: {fileID: 446522727}
+  btn11: {fileID: 1384340502}
+  btn12: {fileID: 561504963}
 --- !u!1 &1149252565
 GameObject:
   m_ObjectHideFlags: 0

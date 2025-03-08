@@ -32,7 +32,7 @@ public class KeyCollectionScript : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
-            if (SceneManager.GetActiveScene().buildIndex == 23)
+            if (SceneManager.GetActiveScene().buildIndex == 13) // level rank in the build settings
             {
                 // return attempts number to zero
                 Instantiate(goalEffect, transform.position, Quaternion.identity);
