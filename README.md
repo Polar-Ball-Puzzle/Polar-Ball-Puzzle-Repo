@@ -2,7 +2,8 @@
 
 Polar Ball is a mobile puzzle game where you guide a ball through intricate levels by switching its polarity. The ball’s behavior changes depending on whether it is positive or negative, affecting how it interacts with platforms, and other game elements. Master the art of polarity switching to overcome challenges and reach the goal!
 
-Table of Contents
+#Table of Contents
+
 Overview
 Gameplay Mechanics
 How to Play
@@ -40,10 +41,10 @@ Reaching the Goal:
 Navigate through the level by switching polarity of the ball as required, and aim to reach the goal object . Successful completion of the level advances you to more challenging levels.
 
 Rewards:
-Completion of each level grants the player an in-game reward of 3 coins. The coins can then be used to purchase skins from the shop in the game. 
+Completion of each level grants the player an in-game reward of 3 coins. The coins can then be used to purchase skins from the shop in the game. The Core token can also be used to purchase the in-game token
 
 Skins:
-There are various interesting skins in the shop scene of the game. the can be bought using the in-game currency. Some skins have an advantage for the player over others, but cost more than the other skins.
+There are various interesting skins in the shop scene of the game. the can be bought using the in-game currency. Some skins have an advantage for the player over others, but cost more than the other skins. The player can choose to mint the skins as NFTs and can recover them upon reinstallation.
 
 Installation:
 To run or modify Polar Ball, follow these steps:
