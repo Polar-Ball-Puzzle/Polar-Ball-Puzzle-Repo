@@ -44,7 +44,8 @@ Completion of each level grants the player an in-game reward of 3 coins. The coi
 
 Skins:
 There are various interesting skins in the shop scene of the game. the can be bought using the in-game currency. Some skins have an advantage for the player over others, but cost more than the other skins.
-Installation
+
+Installation:
 To run or modify Polar Ball, follow these steps:
 
 Clone the Repository.
@@ -63,5 +64,5 @@ Build the project and deploy it to your mobile device for the best experience.
 
 
 Contact
-For questions or support, please contact ectowargames@gmai.com or open an issue on GitHub.
+For questions or support, please contact ectowaregames@gmail.com or open an issue on GitHub.
 
