@@ -15,7 +15,7 @@ public class LevelManagerr : MonoBehaviour
     //  public Text coins;
     private string LevelStatesPath;
 
-    public GameObject Tutorial;
+    
     public Button btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, btn10, btn11, btn12;
     // Start is called before the first frame update
     void Start()
@@ -32,13 +32,13 @@ public class LevelManagerr : MonoBehaviour
         }
         TotalCoins = PlayerPrefs.GetInt("Coins");
          RerenderLevels();
-        if (Tutorial != null)
-        {
-            if (LevelStates.Level1Completed)
-            {
-                Tutorial.SetActive(false);
-            }
-        }
+        //if (Tutorial != null)
+        //{
+        //    if (LevelStates.Level1Completed)
+        //    {
+        //        Tutorial.SetActive(false);
+        //    }
+        //}
         
     }
     // Update is called once per frame
