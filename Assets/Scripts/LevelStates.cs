@@ -19,16 +19,7 @@ public class LevelStates
     public bool Level10Completed;
     public bool Level11Completed;
     public bool Level12Completed;
-    public bool Level13Completed;
-    public bool Level14Completed;
-    public bool Level15Completed;
-    public bool Level16Completed;
-    public bool Level17Completed;
-    public bool Level18Completed;
-    public bool Level19Completed;
-    public bool Level20Completed;
-    public bool Level21Completed;
-    public bool Level22Completed;
+    
 
     public bool[] LeveliCompleted;
 
